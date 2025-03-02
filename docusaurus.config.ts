@@ -39,8 +39,6 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -66,8 +64,8 @@ const config: Config = {
           label: "Crypto Dashboard Docs",
         },
         {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
+          href: "https://github.com/manas-aggrawal/web-app",
+          label: "Crypto Price Tracker Web App Github",
           position: "right",
         },
       ],

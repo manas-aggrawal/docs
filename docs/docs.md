@@ -13,8 +13,8 @@ To set up and run the **Crypto Dashboard**, follow these steps:
 ### 🔹 **1. Clone the Repository**  
 Cloning the project ensures you have the latest codebase:  
 ```sh
-git clone https://github.com/your-username/crypto-dashboard.git
-cd crypto-dashboard
+https://github.com/manas-aggrawal/web-app
+cd web-app
 ```
 ### 🔹 **2. Install Dependencies** 
 ```
